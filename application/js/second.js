@@ -18,4 +18,4 @@ let x = prompt("Один из последних просмотренных фи
 personalMovieDB.movies[x] = z;
 personalMovieDB.movies[c] = d;
 
-console.log(personalMovieDB);a
+console.log(personalMovieDB);
